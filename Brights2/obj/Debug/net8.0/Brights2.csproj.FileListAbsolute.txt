@@ -1,0 +1,15 @@
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\bin\Debug\net8.0\Brights2.exe
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\bin\Debug\net8.0\Brights2.deps.json
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\bin\Debug\net8.0\Brights2.runtimeconfig.json
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\bin\Debug\net8.0\Brights2.dll
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\bin\Debug\net8.0\Brights2.pdb
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.AssemblyInfoInputs.cache
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.AssemblyInfo.cs
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.csproj.CoreCompileInputs.cache
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.sourcelink.json
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.dll
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\refint\Brights2.dll
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.pdb
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\Brights2.genruntimeconfig.cache
+C:\Users\patri\desktop\FruitsApp\Brights2\Brights2\obj\Debug\net8.0\ref\Brights2.dll
